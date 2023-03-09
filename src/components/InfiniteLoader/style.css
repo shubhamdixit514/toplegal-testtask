@@ -1,0 +1,4 @@
+.infinite-loader__container {
+    height: 100vh;
+    overflow-y: scroll;
+}

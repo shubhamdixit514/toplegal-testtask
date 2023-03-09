@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="8.715">
+  <testsuite name="src/__tests__/CharacterCard.test.tsx" errors="0" failures="0" skipped="0" timestamp="2023-03-09T13:28:37" time="3.529" tests="1">
+    <testcase classname="&lt;CharacterCard/&gt; Component" name="should render successfully" time="0.065">
+    </testcase>
+  </testsuite>
+  <testsuite name="src/__tests__/ModalWrapper.test.tsx" errors="0" failures="0" skipped="0" timestamp="2023-03-09T13:28:37" time="3.683" tests="3">
+    <testcase classname="&lt;ModalWrapper/&gt; Component" name="should render successfully" time="0.137">
+    </testcase>
+    <testcase classname="&lt;ModalWrapper/&gt; Component" name="should not render without open as true" time="0.004">
+    </testcase>
+    <testcase classname="&lt;ModalWrapper/&gt; Component" name="should close successfully" time="0.021">
+    </testcase>
+  </testsuite>
+  <testsuite name="src/__tests__/Home.test.tsx" errors="0" failures="0" skipped="0" timestamp="2023-03-09T13:28:37" time="7.272" tests="4">
+    <testcase classname="&lt;Home/&gt; Component" name="should render successfully" time="0.077">
+    </testcase>
+    <testcase classname="&lt;Home/&gt; Component" name="should render 20 cards" time="0.192">
+    </testcase>
+    <testcase classname="&lt;Home/&gt; Component" name="should display modal on card click and remove on backdrop click or escape" time="0.262">
+    </testcase>
+    <testcase classname="&lt;Home/&gt; Component" name="should render more elements on scroll" time="0.282">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+.root--content--cart {
+  padding-bottom: 12px !important;
+}
+
+.card__header__content {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 100%;
+}
